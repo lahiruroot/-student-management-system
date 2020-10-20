@@ -1,0 +1,132 @@
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\bin\Debug\StudentRegSys.exe
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\bin\Debug\StudentRegSys.pdb
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.Login.resources
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.Main.resources
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.Modules.resources
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.Professor.resources
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.Student.resources
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.exe
+D:\Projects\My Projects\StudentRegSys\StudentRegSys\obj\Debug\StudentRegSys.pdb
+D:\Projects\Student Management System\StudentRegSys\obj\Debug\StudentRegSys.exe
+D:\Projects\Student Management System\StudentRegSys\obj\Debug\StudentRegSys.pdb
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\bin\Debug\StudentRegSys.exe
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\bin\Debug\StudentRegSys.pdb
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Login.resources
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Main.resources
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Modules.resources
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Professor.resources
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Student.resources
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.exe
+C:\Users\Lahiru\Desktop\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.pdb
+E:\CCC\student-management-system-master\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+E:\CCC\student-management-system-master\StudentRegSys\bin\Debug\StudentRegSys.exe
+E:\CCC\student-management-system-master\StudentRegSys\bin\Debug\StudentRegSys.pdb
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Login.resources
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Main.resources
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Modules.resources
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Professor.resources
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Student.resources
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.exe
+E:\CCC\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.pdb
+F:\student-management-system-master\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+F:\student-management-system-master\StudentRegSys\bin\Debug\StudentRegSys.exe
+F:\student-management-system-master\StudentRegSys\bin\Debug\StudentRegSys.pdb
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Login.resources
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Main.resources
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Modules.resources
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Professor.resources
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.Student.resources
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.exe
+F:\student-management-system-master\StudentRegSys\obj\Debug\StudentRegSys.pdb
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.Login.resources
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.Main.resources
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.Modules.resources
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.Professor.resources
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.exe
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.pdb
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\bin\Debug\StudentRegSys.exe
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\bin\Debug\StudentRegSys.pdb
+C:\Users\Lahiru\Desktop\student-management-system-master - Copy\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\bin\Debug\StudentRegSys.exe
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\bin\Debug\StudentRegSys.pdb
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.Login.resources
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.Main.resources
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.Modules.resources
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.Professor.resources
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.exe
+C:\Users\Lahiru\Desktop\student-management-system\StudentRegSys\obj\Debug\StudentRegSys.pdb
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\bin\Debug\StudentRegSys.exe
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\bin\Debug\StudentRegSys.pdb
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Login.resources
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Main.resources
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Modules.resources
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Professor.resources
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.exe
+C:\Users\Lahiru\Desktop\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.pdb
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\bin\Debug\StudentRegSys.exe
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\bin\Debug\StudentRegSys.pdb
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Login.resources
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Main.resources
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Modules.resources
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Professor.resources
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.exe
+E:\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.pdb
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\bin\Debug\StudentRegSys.exe.config
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\bin\Debug\StudentRegSys.exe
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\bin\Debug\StudentRegSys.pdb
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csprojAssemblyReference.cache
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Login.resources
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Main.resources
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Modules.resources
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Properties.Resources.resources
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.Professor.resources
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csproj.GenerateResource.cache
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csproj.CoreCompileInputs.cache
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.csproj.CopyComplete
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.exe
+D:\Project's\windows.p\Group Number 23 Object Oriented Programming with C# project\Group Number 23 student management system\StudentRegSys\obj\Debug\StudentRegSys.pdb
